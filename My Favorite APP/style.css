@@ -1,0 +1,28 @@
+
+*{
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -ms-box-sizing: border-box;
+  box-sizing: border-box;
+  }
+.app{
+    display: flex;
+}
+.description{
+    color: #7C8B88;
+    max-width: 700px;
+    max-height: 300px;
+}
+.img{
+    max-width: 460px;
+    padding-right: 20px;
+}
+h1{
+    background-color: #33BEBE;
+    text-align: center;
+    color: white;
+    max-width: 700px;
+    padding-top: 20px;
+    margin-bottom: 30px;
+
+}
